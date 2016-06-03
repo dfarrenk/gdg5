@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/MissileTest.unity
+- path: Assets/_Scenes/Airborne.unity
   isLoaded: 1
   isActive: 1
